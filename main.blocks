@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="W,sEnXrTJ6wS+oFn1bfG" x="20" y="20"><statement name="HANDLER"><block type="device_print_message" id="@!T2@R`n{=Hlz.cj=cOX"><value name="text"><shadow type="text" id="bujRq/!O/{@Ifw~7!yGG"><field name="TEXT">Firefox</field></shadow></value></block></statement></block><block type="device_forever" id="O7YTg5U/x9Cl_g33Tl{}" x="225" y="20"/></xml>
