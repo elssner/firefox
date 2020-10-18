@@ -1,4 +1,4 @@
-basic.showString("Firefox")
+basic.showString("FIREFOX")
 basic.forever(function () {
 	
 })
